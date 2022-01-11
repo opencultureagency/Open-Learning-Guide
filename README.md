@@ -6,8 +6,8 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 ## Design Description
 
-![Open Hardware Guide front page](OHG-front.png)
-![Open Hardware Guide back page](OHG-back.png)
+![Open Hardware Guide front page](Juba-open-learning-guide-front.png)
+![Open Hardware Guide back page](Juba-open-learning-guide-back.png)
 
 
 # **Color scheme + Hex Color Codes:**
