@@ -14,33 +14,32 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 ###  front page:
 
+* ![#F6F8CE](color-codes/F6F8CE.png) Background light: #F6F8CE
+* ![#F3F5BA](color-codes/F3F5BA.png) Background darker: #F3F5BA
+* ![#F1F3A5](color-codes/F1F3A5.png) Background darkest: #F1F3A5
 
-* ![#F0EEE5](color-codes/F38BAF.png) Top left corner (pink): #F38BAF
-* ![#DFAF5F](color-codes/7CCFDD.png) Top right Corner (turqouise): #7CCFDD
-* ![#EADEC5](color-codes/519DD0.png) Bottom left corner (blue): #519DD0
-* ![#EADEC5](color-codes/B5D44D.png) Bottom right corner (green) : #B5D44D
 
 ###  back page
-    Same as back with addition of a yellow square:
 
-* ![#F0EEE5](color-codes/519DD0.png) Top left corner example #1 phone stand (blue): #519DD0
-* ![#DFAF5F](color-codes/F38BAF.png) Top Right Corner example #2 LED light (pink): #F38BAF
-* ![#EADEC5](color-codes/7CCFDD.png) Bottom right corner, example #3 Solar Charger (Turqouise): #7CCFDD
-* ![#EADEC5](color-codes/B5D44D.png) Bottom left corner with Jhub logo, title page (green): #B5D44D
-* ![#EADEC5](color-codes/F0C539.png) Bottom left corner with partner info/credits (yellow): #F0C539
+* ![#F6F8CE](color-codes/F6F8CE.png) Background light: #F6F8CE
 
-### graphics + font colors (black and white)
 
-* ![#231F20](color-codes/231F20.png) Fonts:
-* ![#231F20](color-codes/231F20.png) graphics: outline sketches are white and the steps in each corner.
+### graphics + font colors (black, white and colors)
+
+* t-shirts (Blue): #529FCC & #57AEE1
+* Blazer (Blue): #5594A6
+* t-shirt (Orange): #A66545
+* t-shirt (Red): #F24B4B
+* Tool (Red): #EA4847
+* Tool (Yellow): #C6DA4f
+* Megaphone (Red): #F04D52
+* Hair (Orange): #D46B45
 
 # **Fonts used:**
 
-* **Title:**  Knockout HTF51 Middleweight   [Download Font](https://copyfonts.com/fonts/knockout-htf51-middleweight.html)
-* **Body Text:**  Knockout HTF31-JuniorMiddlewt   [Download Font](https://copyfonts.com/download/knockout-htf31-juniormiddlewt.html)
-* **words in white back page (in pink top left corner and the word example, the numbers, and Steps, the text in the templates):**  Chalkduster [Download Font](https://www.ffonts.net/Chalkduster.font)
-* **Other (unsure where):** Myriad Pro Regular
-  [Download Font](https://fontsgeek.com/fonts/Myriad-Pro-Regular)
+* **Title:** unknown
+* **Body Text:**  unknown
+* **Other:** unknown
 
 # **Text:**
 
