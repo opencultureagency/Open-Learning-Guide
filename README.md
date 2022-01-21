@@ -26,14 +26,15 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 ### graphics + font colors (black, white and colors)
 
-* t-shirts (Blue): #529FCC & #57AEE1
-* Blazer (Blue): #5594A6
-* t-shirt (Orange): #A66545
-* t-shirt (Red): #F24B4B
-* Tool (Red): #EA4847
-* Tool (Yellow): #C6DA4f
-* Megaphone (Red): #F04D52
-* Hair (Orange): #D46B45
+* ![#529FCC](color-codes/529FCC.png) t-shirt 1 (Blue): #529FCC
+* ![#57AEE1](color-codes/57AEE1.png) t-shirt 2 (Blue): #57AEE1
+* ![#A66545](color-codes/A66545.png) t-shirt 3 (Orange): #A66545
+* ![#F24B4B](color-codes/F24B4B.png) t-shirt 4 (Red): #F24B4B
+* ![#5594A6](color-codes/5594A6.png) Blazer (Blue): #5594A6
+* ![#EA4847](color-codes/EA4847.png) Tool Handle (Red): #EA4847
+* ![#C6DA4f](color-codes/C6DA4f.png) Tool Handle (Yellow): #C6DA4f
+* ![#F04D52](color-codes/F04D52.png) Megaphone (Red): #F04D52
+* ![#D46B45](color-codes/D46B45.png) Hair (Orange): #D46B45
 
 # **Fonts used:**
 
