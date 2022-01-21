@@ -28,7 +28,7 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 * ![#529FCC](color-codes/529FCC.png) t-shirt 1 (Blue): #529FCC
 * ![#57AEE1](color-codes/57AEE1.png) t-shirt 2 (Blue): #57AEE1
-* ![#A66545](color-codes/A66545.png) t-shirt 3 (Orange): #A66545
+* ![#EE784A](color-codes/EE784A.png) t-shirt 3 (Orange): #EE784A
 * ![#F24B4B](color-codes/F24B4B.png) t-shirt 4 (Red): #F24B4B
 * ![#5594A6](color-codes/5594A6.png) Blazer (Blue): #5594A6
 * ![#EA4847](color-codes/EA4847.png) Tool Handle (Red): #EA4847
@@ -52,7 +52,7 @@ You can acess the raw text files from the text folder [here](#)
 
 # **Images:**
 
-You can acess the raw images files graphics, icons, and logos from the images folder [here](https://github.com/opencultureagency/Open-Documentation-Guide/tree/master/images)
+You can acess the raw images files graphics, icons, and logos from the images folder [here](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images)
 
 * [Front images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images/front)
 * [Back images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images/back)
