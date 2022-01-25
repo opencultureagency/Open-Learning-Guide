@@ -44,7 +44,7 @@ More about [#ASKnet](https://www.asknet.community/) here.
 
 # **Text:**
 
-You can acess the raw text files from the text folder [here](ttps://github.com/opencultureagency/Open-Learning-Guide/tree/master/text)
+You can acess the text files from the text folder [here](ttps://github.com/opencultureagency/Open-Learning-Guide/tree/master/text)
 
 
 # **Images:**
