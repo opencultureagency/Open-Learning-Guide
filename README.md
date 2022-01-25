@@ -2,7 +2,7 @@
 
 This repository includes the material (texts / graphics / Source file / pdf) of the #ASKnet __Open Learning Guide__ poster .
 
-More about [#ASKnet](https://www.weareasknet.org/) here.
+More about [#ASKnet](https://www.asknet.community/) here.
 
 ## Design Description
 
@@ -44,27 +44,22 @@ More about [#ASKnet](https://www.weareasknet.org/) here.
 
 # **Text:**
 
-You can acess the raw text files from the text folder [here](#)
-
-* [Front Text](text/OHG-front-FINAL-TEXT.odt)
-* [Back Text](text/OHG-back-FINAL-TEXT.odt)
+You can acess the raw text files from the text folder [here](ttps://github.com/opencultureagency/Open-Learning-Guide/tree/master/text)
 
 
 # **Images:**
 
 You can acess the raw images files graphics, icons, and logos from the images folder [here](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images)
 
-* [Front images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images/front)
-* [Back images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images/back)
+* [Source images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/src-img)
+* [Web preview images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/web-img)
 * [Logos](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images/logos)
 
 # **Source File:**
 
-Adobe Illustrator file:
-* [Download Source File](https://cloud.openculture.agency/index.php/s/Dp577rPHnMobQ9m)
+Adobe Illustrator file: Not Available
 PDF Print-Ready file:
 * [Download Print-Ready PDF File](https://cloud.openculture.agency/index.php/s/dy2ZZWA39mzPGiS)
-
 
 # **Editorial Team:**
 **Content Creator & Editor**
