@@ -57,7 +57,10 @@ You can acess the raw images files graphics, icons, and logos from the images fo
 
 # **Source File:**
 
-**Adobe Illustrator file: Not Available**  
+Adobe Illustrator file: 
+* Front Page (34.3 MB): https://cloud.openculture.agency/index.php/s/Rz6obds2AmYY5oq  
+* Back Page (66.9 MB): https://cloud.openculture.agency/index.php/s/mMpqZQmqgjnMwGe  
+
 PDF Print-Ready file:
 * [Download Print-Ready PDF File](https://cloud.openculture.agency/index.php/s/dy2ZZWA39mzPGiS)
 
