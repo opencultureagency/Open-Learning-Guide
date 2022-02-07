@@ -14,7 +14,8 @@ More about [#ASKnet](https://www.asknet.community/) here.
 
 ###  front page:
 
-* ![#F6F8CE](color-codes/F6F8CE.png) Background light: #F6F8CE
+* ![#F5F4D6](color-codes/F5F4D6.png) Background light: #F5F4D6
+
 * ![#F3F5BA](color-codes/F3F5BA.png) Background darker: #F3F5BA
 * ![#F1F3A5](color-codes/F1F3A5.png) Background darkest: #F1F3A5
 
@@ -38,9 +39,10 @@ More about [#ASKnet](https://www.asknet.community/) here.
 
 # **Fonts used:**
 
-* **Title:** unknown
-* **Body Text:**  unknown
-* **Other:** unknown
+* **Title:**  Knockout HTF51 Middleweight   [Download Font](https://copyfonts.com/fonts/knockout-htf51-middleweight.html)
+* **Subtitle Text:**  Knockout HTF31-JuniorMiddlewt   [Download Font](https://copyfonts.com/download/knockout-htf31-juniormiddlewt.html)
+* **Body Text:**  Helvetica   (not free for download)
+
 
 # **Text:**
 
