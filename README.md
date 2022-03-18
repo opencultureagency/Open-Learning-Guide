@@ -22,7 +22,7 @@ More about [#ASKnet](https://www.asknet.community/) here.
 
 ###  back page
 
-* ![#F6F8CE](color-codes/F6F8CE.png) Background light: #F6F8CE
+* ![#F5F4D6](color-codes/F5F4D6.png) Background light: #F5F4D6
 
 
 ### graphics + font colors (black, white and colors)
