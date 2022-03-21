@@ -64,7 +64,7 @@ Adobe Illustrator file:
 * [Download Back Page (66.9 MB):](https://cloud.openculture.agency/index.php/s/mMpqZQmqgjnMwGe )
 
 PDF Print-Ready file:
-* [Download Print-Ready PDF File (20.2 MB)](https://cloud.openculture.agency/index.php/s/dy2ZZWA39mzPGiS)
+* [Download Print-Ready PDF .zip File (24.2 MB)](https://cloud.openculture.agency/index.php/s/42NsfDNQkPkZmbb)
 
 # **Editorial Team:**
 **Content Creator & Editor**
