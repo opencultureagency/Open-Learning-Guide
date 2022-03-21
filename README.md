@@ -60,11 +60,11 @@ You can acess the raw images files graphics, icons, and logos from the images fo
 # **Source File:**
 
 Adobe Illustrator file: 
-* Front Page (34.3 MB): https://cloud.openculture.agency/index.php/s/Rz6obds2AmYY5oq  
-* Back Page (66.9 MB): https://cloud.openculture.agency/index.php/s/mMpqZQmqgjnMwGe  
+* [Download Front Page (34.3 MB):](https://cloud.openculture.agency/index.php/s/Rz6obds2AmYY5oq)
+* [Download Back Page (66.9 MB):](https://cloud.openculture.agency/index.php/s/mMpqZQmqgjnMwGe )
 
 PDF Print-Ready file:
-* [Download Print-Ready PDF File](https://cloud.openculture.agency/index.php/s/dy2ZZWA39mzPGiS)
+* [Download Print-Ready PDF File (20.2 MB)](https://cloud.openculture.agency/index.php/s/dy2ZZWA39mzPGiS)
 
 # **Editorial Team:**
 **Content Creator & Editor**
