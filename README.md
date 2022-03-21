@@ -70,7 +70,7 @@ PDF Print-Ready file:
 **Content Creator & Editor**
 
 Content Created by: #ASKnet participants / r0g_agency  
-Designed by: Adam Ferns
+Designed by: Adam Ferns  
 Assembled & Edited by: 
 Timm Wille [Github](https://github.com/timmwille/)
 
