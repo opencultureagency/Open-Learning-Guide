@@ -6,22 +6,23 @@ More about [#ASKnet](https://www.asknet.community/) here.
 
 ## Design Description
 
-![Open Hardware Guide front page](Juba-open-learning-guide-front.png)
-![Open Hardware Guide back page](Juba-open-learning-guide-back.png)
+![Open Learning Guide front page](Juba-open-learning-guide-front.png)
+![Open Learning Guide back page](Juba-open-learning-guide-back.png)
 
 
 # **Color scheme + Hex Color Codes:**
 
 ###  front page:
 
-* ![#F6F8CE](color-codes/F6F8CE.png) Background light: #F6F8CE
+* ![#F5F4D6](color-codes/F5F4D6.png) Background light: #F5F4D6
+
 * ![#F3F5BA](color-codes/F3F5BA.png) Background darker: #F3F5BA
 * ![#F1F3A5](color-codes/F1F3A5.png) Background darkest: #F1F3A5
 
 
 ###  back page
 
-* ![#F6F8CE](color-codes/F6F8CE.png) Background light: #F6F8CE
+* ![#F5F4D6](color-codes/F5F4D6.png) Background light: #F5F4D6
 
 
 ### graphics + font colors (black, white and colors)
@@ -38,13 +39,14 @@ More about [#ASKnet](https://www.asknet.community/) here.
 
 # **Fonts used:**
 
-* **Title:** unknown
-* **Body Text:**  unknown
-* **Other:** unknown
+* **Title:**  Knockout HTF51 Middleweight   [Download Font](https://copyfonts.com/fonts/knockout-htf51-middleweight.html)
+* **Subtitle Text:**  Knockout HTF31-JuniorMiddlewt   [Download Font](https://copyfonts.com/download/knockout-htf31-juniormiddlewt.html)
+* **Body Text:**  Helvetica   (not free for download)
+
 
 # **Text:**
 
-You can acess the raw text files from the text folder [here](ttps://github.com/opencultureagency/Open-Learning-Guide/tree/master/text)
+You can acess the text files from the text folder [here](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/text)
 
 
 # **Images:**
@@ -57,14 +59,18 @@ You can acess the raw images files graphics, icons, and logos from the images fo
 
 # **Source File:**
 
-**Adobe Illustrator file: Not Available**  
+Adobe Illustrator file: 
+* [Download Front Page (34.3 MB):](https://cloud.openculture.agency/index.php/s/Rz6obds2AmYY5oq)
+* [Download Back Page (66.9 MB):](https://cloud.openculture.agency/index.php/s/mMpqZQmqgjnMwGe )
+
 PDF Print-Ready file:
-* [Download Print-Ready PDF File](https://cloud.openculture.agency/index.php/s/dy2ZZWA39mzPGiS)
+* [Download Print-Ready PDF .zip File (24.2 MB)](https://cloud.openculture.agency/index.php/s/42NsfDNQkPkZmbb)
 
 # **Editorial Team:**
 **Content Creator & Editor**
 
-Design:   
+Content Created by: #ASKnet participants / r0g_agency  
+Designed by: Adam Ferns  
 Assembled & Edited by: 
 Timm Wille [Github](https://github.com/timmwille/)
 
