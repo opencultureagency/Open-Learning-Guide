@@ -1,10 +1,10 @@
-# jHUB OPEN LEARNING HANDBOOK & TOOLKIT
+# WHAT IS jHUB?
 
-jHUB experienced trainers and facilitators offer a supportive environment to find and attend online education media training resources. Independent guidance to identify, access P2P learning & share new knowledge with your community.
+**jHUB** creates an open knowledge and innovation space for South Sudanese youth to connect and collaborate, while providing an accessible resource center for creative learning and exploration. Adopting an "open system" approach, nurturing togetherness, socialisation, collaborative enterprise using hands-on, virtual and e-learning digital environments as a means to understand South Sudan's diverse culture and structure. jHUB's capacity building and development elements are oriented towards open culture and are designed to take advantage of the wide range and accessibility of open source tools these platforms and methodologies include extensive use and promotion of "Open Education Resources"(OERs).
 
-The Blended Learning approach combines on-location seminars with preparation and post‐processing, as well as moderated self‐learning phases in a virtual learning platform, using a variety of digital media and tools. In the context of South Sudan, where most people do not have access to the Internet at home, jHUB provides both the space for on-location seminars, for groups of learners to meet and prepare or post-process the seminars, and for learners to conduct their self-learning.
+jubahub.org
 
-Knowledge about and use of open source software and open source hardware both play an important role for jHUB. The members have learned how to upcycle used hardware components to build their own solar chargers, which they now use to charge cell phones, cameras and other electronic equipment, independent of the power supply of the fuel-powered generator.
+**The Open Learning Guide** is an outcome of "Step-Up Juba Media Lab", a collaboration with Kapital Movie and the new jHUB community in South Sudan, produced with partners icebauhause and r0g_agency for open culture and critical transformation in Berlin. The program is funded by the German Federal Ministry of Economic Cooperation and Development (BMZ) through its program of "Support for Media, Access to Information and Freedom of Expression" in 2015.
 
 ## OPEN LEARNING INTRODUCTION PEER2PEER (P2P) & ICT LITERACY
 
@@ -24,7 +24,7 @@ The user generated Foundation for Peer to Peer Alternatives
 
 https://en.wikibooks.org/wiki/Peeragogy_Handbook_V1.0sents
 
-a range of techniques 
+sents a range of techniques 
 
 Peeragogy is another word for “peer learning”. A range of techniques for self-motivated learners to connect with each other and develop stronger communities and collaborations.
 
@@ -69,23 +69,21 @@ https://www.khanacademy.org/
 
 “You can learn anything.” Global Classroom offers a free world class education for anyone, anywhere. Personalised learning dashboard to study at your own pace in and outside of the classroom. Maths, science, computer programming, art history, economics, and more.
 
-**MOOC**
-
-http://mooc.org/ 
-
-Open edX platform to help educational institutions, businesses and teachers easily build and host courses for the world to take. Open source learning & authoring.
+**CRASH COURSE**
+youtube.com/user/crashcourse/playlists
+Youtube channel with courses in Anatomy & Physiology, Astronomy, World History, Biology, Literature, Ecology, Economics, Chemistry, Psychology in short episodes.
 
 **OPEN CULTURE**
 
 http://www.openculture.com/free_certificate_courses
 
-Courses, movies, audio books, ebooks, textbooks, language lessons
+Courses, movies, audio books, ebooks, textbooks, language lessons.
 
 **SCHOOL OF LIFE** 
 
 https://www.youtube.com/user/schooloflifechannel
 
-Essays, philosophy, short video series 
+Essays, philosophy, short video series. 
 
 ---
 
@@ -157,6 +155,10 @@ British MOOC initiative, related to Open University. Media-topics, digital story
 http://railsgirls.com/materials
 
 Tools and a community for women to understand technology and build their ideas. Learn sketching, prototyping, basic programming, and the potential of technology. 
+
+**OPEN CULTURE LEARN TO CODE**
+openculture.com/2016/03/learn-how-to-code-for-free-a-diy-guide-for-learning-html-python-javascript-more.html
+DIY Guide:learn how to code for free, using online courses, instructional videos, YouTube channels, textbooks
 
 ## USER EXPERIENCE DESIGN
 **GOOGLE DESIGN**
@@ -251,6 +253,7 @@ Learn english as an arab speaker
 **ANIMATION, 3D MODELLING, SOUND & VIDEO EDITING
 3D STUDIO MAX**
 
+**AUTODESK**
 http://www.autodesk.com/education/free-software/3ds-max
 
 Comprehensive 3D modelling, animation, rendering, and compositing tool for games, film & motion graphics artists. Crowd generation, particle animation, and perspective matching.
@@ -285,7 +288,11 @@ http://www.videolan.org/vlc/
 
 Free, open source flexible media player for multimedia files as well as DVDs, Audio CDs, VCDs, and streaming protocols. Runs on virtually any operating system (Windows, Linux, Mac OS X, Unix, iOS, Android) including portable/handheld computers.
 
-**DIGITAL CREATION & STORYTELLING PLATFORMS
+**VIDEO COPILOT**
+videocopilot.net/tutorials
+A collaborative resource for design tools and training in visual FX, motion design & 3D Graphics.
+
+**DIGITAL MEDIA CREATION & STORYTELLING PLATFORMS
 MIT OPEN DOCUMENTARY LAB**
 
 http://docubase.mit.edu/
@@ -307,12 +314,12 @@ http://www.netstories.org/
 Choose the Tool, Craft Your Story and Engage Your Audience
 Data storytelling tools and resources for creative, community-based storytelling. 
 
-## GLOSSARY … TERMS … QUESTIONS ??? …
+## GLOSSARY
 **Android?** is a robot designed to act and look like a human, and is now commonly known as a Linux-based open source mobile operating systems (OS), developed by Google for smart phones
 
-**Blended Learning?** is a form of teaching and learning where the student learns at least part of the content and instruction via digital and online media with some element of student control over time, place, path, or pace (the Step-Up / icebauhaus e-Learning platform is intended to encourage both Blended Learning, promoting OERs and the development of P2P for learning)
+**Blended Learning?** is a form of teaching and learning where the student learns at least part of the content and instruction via digital and online media with some element of student control over time, place, path, or pace (the Step-Up Juba Media Lab / iceHubs Global eLEARNING platform is intended to encourage both Blended Learning, promoting OERs and the development of P2P for learning)
 
-**Code-a- thon (or Hackathon)?** Computer programmers and developers, visual and user experience designers collaborate intensively to build innovative software.
+**Code-a- thon (or Hackathon)** Computer programmers and developers, visual and user experience designers collaborate intensively to build innovative software.
 
 **DIY?** Do It Yourself
 
@@ -334,6 +341,8 @@ Data storytelling tools and resources for creative, community-based storytelling
 
 **Up-Cycling?** Also known as ‘creative reuse’, the process of transforming by-products, waste materials, useless and/or unwanted products into new materials or products of better quality or for better environmental value.
 
-**UX?** User Experience ... refers to practical, experiential, and meaningful aspects of human–computer interaction. A 'good' UX indicates a technology that works well and is useful for the people it is intended to serve.
+**UX** User Experience ... refers to practical, experiential, and meaningful aspects of human–computer interaction. A 'good' UX indicates a technology that works well and is useful for the people it is intended to serve.
+
+**Wiki** - a website or database develobed collaboratively by a community of users, allowing any user to add, edit, revise and delete content.
 
 **Wikipedia?** Collaborative global open encyclopaedia and knowledge resource.
