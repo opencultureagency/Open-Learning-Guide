@@ -148,31 +148,31 @@ Open Source word, spreadsheet and drawing office suite. Alternative to powerpoin
 ## CODING AND PROGRAMMING
 **CODE ACADEMY**
 
-https://www.codecademy.com/
+[codecademy.com/](https://www.codecademy.com/)
 
 Learn to code, interactively. For free. 
 
 **FREE TECHNOLOGY ACADEMY**
 
-http://ftacademy.org/
+[ftacademy.org/](http://ftacademy.org/)
 
 Educational programme on Free Software and Open Standards.
 
 **FUTURE LEARN **
 
-https://www.futurelearn.com/courses/collections/make-it-digital 
+[futurelearn.com/courses/collections/make-it-digital](https://www.futurelearn.com/courses/collections/make-it-digital) 
 
 British MOOC initiative, related to Open University. Media-topics, digital storytelling. Learn to code and get creative with programming and digital technology.
 
 **RAILS GIRLS**
 
-http://railsgirls.com/materials
+[railsgirls.com/materials](http://railsgirls.com/materials)
 
 Tools and a community for women to understand technology and build their ideas. Learn sketching, prototyping, basic programming, and the potential of technology. 
 
 **OPEN CULTURE LEARN TO CODE**
 
-openculture.com/2016/03/learn-how-to-code-for-free-a-diy-guide-for-learning-html-python-javascript-more.html
+[openculture.com/2016/03/learn-how-to-code-for-free-a-diy-guide-for-learning-html-python-javascript-more](openculture.com/2016/03/learn-how-to-code-for-free-a-diy-guide-for-learning-html-python-javascript-more.html)
 
 DIY Guide:learn how to code for free, using online courses, instructional videos, YouTube channels, textbooks
 
