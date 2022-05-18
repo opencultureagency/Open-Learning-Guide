@@ -56,28 +56,28 @@ Aguide to free and open source education. Stories about creating. adopting and s
 
 **ALISON ONLINE TRAINING**
 
-https://alison.com/ 
+[alison.com/ ](https://alison.com/) 
 
 Free, high-quality online education resources to help you develop essential, certified workplace skills. Sponsored by Google, Microsoft et al
 
 **EDX**
 
-https://www.edx.org 
+[edx.org](https://www.edx.org) 
 
 Access to free education for everyone. Harvard University, MIT & submit your own courses!
 
 **ELEARNING AFRICA** 
 
-http://www.elearning-africa.com/
+[elearning-africa.com/](http://www.elearning-africa.com/)
 
 Perspectives on ICT, Education and Development in Africa
 eLearning Africa news portal 
 
-http://ela-newsportal.com/
+[ela-newsportal.com/](http://ela-newsportal.com/)
 
 **KHAN ACADEMY**
 
-https://www.khanacademy.org/
+[khanacademy.org/](https://www.khanacademy.org/)
 
 “You can learn anything.” Global Classroom offers a free world class education for anyone, anywhere. Personalised learning dashboard to study at your own pace in and outside of the classroom. Maths, science, computer programming, art history, economics, and more.
 
@@ -89,13 +89,13 @@ youtube channel with courses in Anatomy & Physiology, Astronomy, World History, 
 
 **OPEN CULTURE**
 
-http://www.openculture.com/free_certificate_courses
+[openculture.com/free_certificate_courses](http://www.openculture.com/free_certificate_courses)
 
 Courses, movies, audio books, ebooks, textbooks, language lessons.
 
 **SCHOOL OF LIFE** 
 
-https://www.youtube.com/user/schooloflifechannel
+[youtube.com/user/schooloflifechannel](https://www.youtube.com/user/schooloflifechannel)
 
 Essays, philosophy, short video series. 
 
