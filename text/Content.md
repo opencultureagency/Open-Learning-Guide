@@ -238,6 +238,12 @@ http://opensourceecology.org/
 
 Open source industrial machines that can be made for a fraction of commercial costs, designs shared online for free. The goal is to create an open source economy – an efficient economy which increases innovation by open collaboration.
 
+**OPEN SOURCE HARDWARE ASSOCIATION**
+
+https://www.oshwa.org
+
+Open hardware community ensuring technological knowledge is accsessible to everyone. Collaborative development of technology that serves education, environmental sustainability, and human welfare.
+
 **WIKI-HOW**
 
 http://www.wikihow.com/
