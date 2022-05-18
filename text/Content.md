@@ -46,6 +46,12 @@ https://learning.mozilla.org/en-US/web-literacy
 
 Web literacy 21sr Century Skills: Problem-Solving, Communication, Creativity, Collaberation, Share, design, code, compose, remix, navigate, connect, open practice, contribute.
 
+**OPEN SOURCE EDUCATION**
+
+http://opensource.com/education/13/4/guide-open-source-education
+
+Aguide to free and open source education. Stories about creating. adopting and sharing open source solutions.
+
 ## eLEARNING RESOURCES
 
 **ALISON ONLINE TRAINING**
