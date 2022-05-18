@@ -226,6 +226,12 @@ http://www.instructables.com/
 
 Share what you make with the world, and tap into an ever-growing community of creative experts. Participate in make-a-thons through the platform. Add your own instructables.
 
+**OPEN! METHODS & TOOLS FOR COMMUNITY-BASED PRODUCT DEVELOPMENT**
+
+opensourcedesigne.cc
+
+Current practices of open source product development & concreat guidence to support design process efficiency of open source product development projects.
+
 **OPEN SOURCE ECOLOGY**
 
 http://opensourceecology.org/
