@@ -71,6 +71,7 @@ eLearning Africa news portal
 **KHAN ACADEMY**
 
 [khanacademy.org/](https://www.khanacademy.org/)
+[youtube.com/c/khanacademy](https://www.youtube.com/c/khanacademy)
 
 “You can learn anything.” Global Classroom offers a free world class education for anyone, anywhere. Personalised learning dashboard to study at your own pace in and outside of the classroom. Maths, science, computer programming, art history, economics, and more.
 
