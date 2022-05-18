@@ -385,6 +385,6 @@ Data storytelling tools and resources for creative, community-based storytelling
 
 **UX -** User Experience ... refers to practical, experiential, and meaningful aspects of human–computer interaction. A 'good' UX indicates a technology that works well and is useful for the people it is intended to serve.
 
-**Wiki -** - a website or database develobed collaboratively by a community of users, allowing any user to add, edit, revise and delete content.
+**Wiki -** a website or database developed collaboratively by a comunity of users, allowing any user to add, edit, revise and delete content.
 
 **Wikipedia -** Collaborative global open encyclopaedia and knowledge resource.
