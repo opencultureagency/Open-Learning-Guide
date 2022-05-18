@@ -281,6 +281,7 @@ Free lectures to learn words in new languages
 **LEARN OUT LOUD**
 
 [learnoutloud.com/Catalog/Languages](https://www.learnoutloud.com/Catalog/Languages)
+
 various language learning resources. various further learning content on the learnoutloud homepage.
 
 ## ANIMATION, 3D MODELLING, SOUND & VIDEO EDITING
