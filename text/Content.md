@@ -274,19 +274,19 @@ Bringing together peacebuilders, tech innovators and open culture advocates from
 
 **DUOLINGO**
 
-https://www.duolingo.com/
+[duolingo.com/](https://www.duolingo.com/)
 
 Learn a language for free, for ever. Learn anytime, anywhere. Each lesson includes a variety of speaking, listening, translation, and multiple choice challenges.
 
 **INTERNET POLYGLOT**
 
-http://www.internetpolyglot.com/lessons-ar-en 
+[internetpolyglot.com/lessons-ar-en](http://www.internetpolyglot.com/lessons-ar-en) 
 
 Free lectures to learn words in new languages
 
 **LEARN OUT LOUD**
 
-http://www.learnoutloud.com/Free-Audio-Video/Languages/English-as-a-Second-Language/English-for-Arabic-Speakers-Unit-1/41722
+[learnoutloud.com/Free-Audio-Video/Languages/English-as-a-Second-Language/English-for-Arabic-Speakers-Unit-1/41722](http://www.learnoutloud.com/Free-Audio-Video/Languages/English-as-a-Second-Language/English-for-Arabic-Speakers-Unit-1/41722)
 
 Learn english as an arab speaker
 
