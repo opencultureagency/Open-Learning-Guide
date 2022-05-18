@@ -82,8 +82,10 @@ https://www.khanacademy.org/
 “You can learn anything.” Global Classroom offers a free world class education for anyone, anywhere. Personalised learning dashboard to study at your own pace in and outside of the classroom. Maths, science, computer programming, art history, economics, and more.
 
 **CRASH COURSE**
+
 youtube.com/user/crashcourse/playlists
-Youtube channel with courses in Anatomy & Physiology, Astronomy, World History, Biology, Literature, Ecology, Economics, Chemistry, Psychology in short episodes.
+
+youtube channel with courses in Anatomy & Physiology, Astronomy, World History, Biology, Literature, Ecology, Economics, Chemistry, Psychology in short episodes.
 
 **OPEN CULTURE**
 
