@@ -204,55 +204,55 @@ Develop web content that is accessible to people with disabilities, and offer a 
 ## OPEN HARDWARE + ELECTRONICS
 **AFRIMAKERS**
 
-http://www.afrimakers.org
+[afrimakers.org](http://www.afrimakers.org)
 
 Empowers makers in Africa to develop sustainable projects using rapid prototyping to solve local challenges.
 
 **APPROPEDIA**
 
-http://www.appropedia.org/Welcome_to_Appropedia
+[appropedia.org/Welcome_to_Appropedia](http://www.appropedia.org/Welcome_to_Appropedia)
 
 Sharing knowledge to build rich, sustainable lives.
 
 **IFIXIT**
 
-https://www,ifixit.com
+[ifixit.com](https://www,ifixit.com)
 
 The free repair guide for everything, written by everyone
 
 **INSTRUCTABLES**
 
-http://www.instructables.com/ 
+[instructables.com/](http://www.instructables.com/) 
 
 Share what you make with the world, and tap into an ever-growing community of creative experts. Participate in make-a-thons through the platform. Add your own instructables.
 
 **OPEN! METHODS & TOOLS FOR COMMUNITY-BASED PRODUCT DEVELOPMENT**
 
-opensourcedesigne.cc
+[opensourcedesigne.cc](opensourcedesigne.cc)
 
 Current practices of open source product development & concreat guidence to support design process efficiency of open source product development projects.
 
 **OPEN SOURCE ECOLOGY**
 
-http://opensourceecology.org/
+[opensourceecology.org/](http://opensourceecology.org/)
 
 Open source industrial machines that can be made for a fraction of commercial costs, designs shared online for free. The goal is to create an open source economy – an efficient economy which increases innovation by open collaboration.
 
 **OPEN SOURCE HARDWARE ASSOCIATION**
 
-https://www.oshwa.org
+[oshwa.org](https://www.oshwa.org)
 
 Open hardware community ensuring technological knowledge is accsessible to everyone. Collaborative development of technology that serves education, environmental sustainability, and human welfare.
 
 **WIKIFAB**
 
-http://wikifab.org 
+[wikifab.org](http://wikifab.org) 
 
 Open source hardware documentation platform. Tutorials to make anything, written by everyone.
 
 **WIKI-HOW**
 
-http://www.wikihow.com/
+[wikihow.com/](http://www.wikihow.com/)
 
 “We're trying to help everyone on the planet learn how to do anything. Join us.”
 
