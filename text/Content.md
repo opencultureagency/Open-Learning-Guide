@@ -14,7 +14,7 @@ Based on the Moodle [moodle.org](https://moodle.org) Knowledge Management System
 
 **PEERAGOGY HANDBOOK**
 
-[en.wikibooks.org/wiki/Peeragogy_Handbook_V1.0sents](https://en.wikibooks.org/wiki/Peeragogy_Handbook_V1.0sents)
+[peeragogy.org/](https://peeragogy.org/)
 
 sents a range of techniques 
 
