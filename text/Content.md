@@ -40,6 +40,12 @@ https://www.wikipedia.org
 
 Collaborative global open encyclopaedia and free knowledge resource.
 
+**MOZILLA WEB LITERACY**
+
+https://learning.mozilla.org/en-US/web-literacy
+
+Web literacy 21sr Century Skills: Problem-Solving, Communication, Creativity, Collaberation, Share, design, code, compose, remix, navigate, connect, open practice, contribute.
+
 ## eLEARNING RESOURCES
 
 **ALISON ONLINE TRAINING**
