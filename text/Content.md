@@ -214,6 +214,12 @@ http://www.appropedia.org/Welcome_to_Appropedia
 
 Sharing knowledge to build rich, sustainable lives.
 
+**IFIXIT**
+
+https://www,ifixit.com
+
+The free repair guide for everything, written by everyone
+
 **INSTRUCTABLES**
 
 http://www.instructables.com/ 
