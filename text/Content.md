@@ -171,7 +171,9 @@ http://railsgirls.com/materials
 Tools and a community for women to understand technology and build their ideas. Learn sketching, prototyping, basic programming, and the potential of technology. 
 
 **OPEN CULTURE LEARN TO CODE**
+
 openculture.com/2016/03/learn-how-to-code-for-free-a-diy-guide-for-learning-html-python-javascript-more.html
+
 DIY Guide:learn how to code for free, using online courses, instructional videos, YouTube channels, textbooks
 
 ## USER EXPERIENCE DESIGN
