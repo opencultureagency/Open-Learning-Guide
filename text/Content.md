@@ -260,13 +260,13 @@ Open source hardware documentation platform. Tutorials to make anything, written
 
 **ICT4PEACE**
 
-http://ict4peace.org
+[ict4peace.org](http://ict4peace.org)
 
 ICT4Peace facilitates improved, effective and sustained communication between communities involved in conflict prevention, mediation and peace building, through better understanding Information Communications Technology (ICT) & media.
 
 **PEACEHACKCAMP**
 
-http://peacehackcamp.net/
+[peacehackcamp.net/](http://peacehackcamp.net/)
 
 Bringing together peacebuilders, tech innovators and open culture advocates from across South Sudan and beyond to hack, code, make and collaborate for peace!
 
