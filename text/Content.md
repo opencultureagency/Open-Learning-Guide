@@ -357,34 +357,34 @@ Choose the Tool, Craft Your Story and Engage Your Audience
 Data storytelling tools and resources for creative, community-based storytelling. 
 
 ## GLOSSARY
-**Android?** is a robot designed to act and look like a human, and is now commonly known as a Linux-based open source mobile operating systems (OS), developed by Google for smart phones
+**Android -** is a robot designed to act and look like a human, and is now commonly known as a Linux-based open source mobile operating systems (OS), developed by Google for smart phones
 
-**Blended Learning?** is a form of teaching and learning where the student learns at least part of the content and instruction via digital and online media with some element of student control over time, place, path, or pace (the Step-Up Juba Media Lab / iceHubs Global eLEARNING platform is intended to encourage both Blended Learning, promoting OERs and the development of P2P for learning)
+**Blended Learning -** is a form of teaching and learning where the student learns at least part of the content and instruction via digital and online media with some element of student control over time, place, path, or pace (the Step-Up Juba Media Lab / iceHubs Global eLEARNING platform is intended to encourage both Blended Learning, promoting OERs and the development of P2P for learning)
 
-**Code-a- thon (or Hackathon)** Computer programmers and developers, visual and user experience designers collaborate intensively to build innovative software.
+**Code-a- thon (or Hackathon) -** Computer programmers and developers, visual and user experience designers collaborate intensively to build innovative software.
 
-**DIY?** Do It Yourself
+**DIY -** Do It Yourself
 
-**DIWO?** Do It With Others
+**DIWO -** Do It With Others
 
-**ICT?** Information and Communications Technologies
+**ICT -** Information and Communications Technologies
 
-**KAPITAL?** an acronym for Knowledge, Afro-Innovation, Peace, Information, Technology,  Activism and Liberty, is a collective of independent media and film makers, artists, designers and technologists promoting open culture in South Sudan.
+**KAPITAL -** an acronym for Knowledge, Afro-Innovation, Peace, Information, Technology,  Activism and Liberty, is a collective of independent media and film makers, artists, designers and technologists promoting open culture in South Sudan.
 
-**Maker?** refers to growing global maker culture movement, an extension of DIY (Do-It-Yourself) culture interested in creation and innovation of built objects that have a technological component. This can include home made robots, flying machines (such as South Sudanese inventor George Mel's airplane), traditional activities in arts and crafts which focus on using and learning practical skills and applying them to design and invention.
+**Maker -** refers to growing global maker culture movement, an extension of DIY (Do-It-Yourself) culture interested in creation and innovation of built objects that have a technological component. This can include home made robots, flying machines (such as South Sudanese inventor George Mel's airplane), traditional activities in arts and crafts which focus on using and learning practical skills and applying them to design and invention.
 
-**MOOC?**  Massive Open Online Courses offered by major universities for free study, aimed at unlimited participation and open access via the web.
+**MOOC -**  Massive Open Online Courses offered by major universities for free study, aimed at unlimited participation and open access via the web.
 
-**OER?** Open Educational Resources, which are are freely accessible, openly licensed documents and media that are useful for teaching, learning, or for research purposes
+**OER -** Open Educational Resources, which are are freely accessible, openly licensed documents and media that are useful for teaching, learning, or for research purposes
 
-**P2P?** Peer to Peer ... a network that distributes tasks between peers (either similar computers,  team members or colleagues). Peers are equal participants in an application or work pursuit. Graphically they form a de-centralised 'peer-to-peer' network of nodes, as opposed to a centralised system. P2P can also be considered a model of collaborative learning, sharing and passing on of knowledge among like minded participants. The KAPITAL Virtual Academy (KVA) developed through a P2P form of learning and mentoring. 
+**P2P -** Peer to Peer ... a network that distributes tasks between peers (either similar computers,  team members or colleagues). Peers are equal participants in an application or work pursuit. Graphically they form a de-centralised 'peer-to-peer' network of nodes, as opposed to a centralised system. P2P can also be considered a model of collaborative learning, sharing and passing on of knowledge among like minded participants. The KAPITAL Virtual Academy (KVA) developed through a P2P form of learning and mentoring. 
 
-**RFID?** Radio-frequency identification (RFID) is the wireless use of electromagnetic fields to transfer data, automatically identifying and tracking tags attached to objects.
+**RFID -** Radio-frequency identification (RFID) is the wireless use of electromagnetic fields to transfer data, automatically identifying and tracking tags attached to objects.
 
-**Up-Cycling?** Also known as ‘creative reuse’, the process of transforming by-products, waste materials, useless and/or unwanted products into new materials or products of better quality or for better environmental value.
+**Up-Cycling -** Also known as ‘creative reuse’, the process of transforming by-products, waste materials, useless and/or unwanted products into new materials or products of better quality or for better environmental value.
 
-**UX** User Experience ... refers to practical, experiential, and meaningful aspects of human–computer interaction. A 'good' UX indicates a technology that works well and is useful for the people it is intended to serve.
+**UX -** User Experience ... refers to practical, experiential, and meaningful aspects of human–computer interaction. A 'good' UX indicates a technology that works well and is useful for the people it is intended to serve.
 
-**Wiki** - a website or database develobed collaboratively by a community of users, allowing any user to add, edit, revise and delete content.
+**Wiki -** - a website or database develobed collaboratively by a community of users, allowing any user to add, edit, revise and delete content.
 
-**Wikipedia?** Collaborative global open encyclopaedia and knowledge resource.
+**Wikipedia -** Collaborative global open encyclopaedia and knowledge resource.
