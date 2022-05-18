@@ -290,68 +290,67 @@ Free lectures to learn words in new languages
 
 Learn english as an arab speaker
 
-**ANIMATION, 3D MODELLING, SOUND & VIDEO EDITING
-3D STUDIO MAX**
+## ANIMATION, 3D MODELLING, SOUND & VIDEO EDITING
 
 **AUTODESK**
-http://www.autodesk.com/education/free-software/3ds-max
+[autodesk.com/education/free-software/3ds-max](http://www.autodesk.com/education/free-software/3ds-max)
 
 Comprehensive 3D modelling, animation, rendering, and compositing tool for games, film & motion graphics artists. Crowd generation, particle animation, and perspective matching.
 
 **AUDACITY**
 
-http://audacityteam.org/
+[audacityteam.org/](http://audacityteam.org/)
 
 Free, open source, cross-platform software for recording and editing sounds.
 
 **BLENDER**
 
-https://www.blender.org/
+[blender.org/](https://www.blender.org/)
 
 3D animation and modelling suite, includes tools for modelling, NURBS, vector fonts, and curves, uv mapping.
 
 **PIXAR IN A BOX**
 
-https://www.khanacademy.org/partner-content/pixar/start 
+[khanacademy.org/partner-content/pixar/start](https://www.khanacademy.org/partner-content/pixar/start) 
 
 Khan Academy collaboration with Pixar on animation. Shows how the concepts you learn in school are used to tackle creative challenges in the making of Pixar films. Learn about Pixar’s filmmaking process and get to know the Pixar production pipeline.
 
 **VIDEO & FILMMAKER – TUTORIALS**
 
-http://videoandfilmmaker.com/wp/index.php/category/tutorials/
+[videoandfilmmaker.com/wp/index.php/category/tutorials/](http://videoandfilmmaker.com/wp/index.php/category/tutorials/)
 
 VFX, 3D Landscaping, Microphone and Sound Mixing, DIY Filmmakers Toolkit, How to make a web series people will watch, Editing, Colour Grading, Visual Script Storyboard.
 
 **VLC MEDIA PLAYER**
 
-http://www.videolan.org/vlc/
+[videolan.org/vlc/](http://www.videolan.org/vlc/)
 
 Free, open source flexible media player for multimedia files as well as DVDs, Audio CDs, VCDs, and streaming protocols. Runs on virtually any operating system (Windows, Linux, Mac OS X, Unix, iOS, Android) including portable/handheld computers.
 
 **VIDEO COPILOT**
 
-videocopilot.net/tutorials
+[videocopilot.net/tutorials](videocopilot.net/tutorials)
 
 A collaborative resource for designe tools and training in visual FX, motion designe & 3D Graphics.
 
 **DIGITAL MEDIA CREATION & STORYTELLING PLATFORMS
 MIT OPEN DOCUMENTARY LAB**
 
-http://docubase.mit.edu/
+[docubase.mit.edu/](http://docubase.mit.edu/)
 
-http://docubase.mit.edu/tools/
+[docubase.mit.edu/tools/](http://docubase.mit.edu/tools/)
 
 People, projects, tools and technologies for transforming documentary in the digital age. 
 
 **MOZILLA WEBMAKER FOR ANDROID**
 
-https://beta.webmaker.org/#/
+[beta.webmaker.org/#/](https://beta.webmaker.org/#/)
 
 First-time smartphone users and mobile-first Web users as active participants on the Web. When consumers become creators, they’re introduced to social and economic opportunity. 
 
 **NET STORIES**
 
-http://www.netstories.org/
+[netstories.org/](http://www.netstories.org/)
 
 Choose the Tool, Craft Your Story and Engage Your Audience
 Data storytelling tools and resources for creative, community-based storytelling. 
