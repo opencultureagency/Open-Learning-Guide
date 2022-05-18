@@ -329,8 +329,10 @@ http://www.videolan.org/vlc/
 Free, open source flexible media player for multimedia files as well as DVDs, Audio CDs, VCDs, and streaming protocols. Runs on virtually any operating system (Windows, Linux, Mac OS X, Unix, iOS, Android) including portable/handheld computers.
 
 **VIDEO COPILOT**
+
 videocopilot.net/tutorials
-A collaborative resource for design tools and training in visual FX, motion design & 3D Graphics.
+
+A collaborative resource for designe tools and training in visual FX, motion designe & 3D Graphics.
 
 **DIGITAL MEDIA CREATION & STORYTELLING PLATFORMS
 MIT OPEN DOCUMENTARY LAB**
