@@ -22,7 +22,8 @@ Peeragogy is another word for “peer learning”. A range of techniques for sel
 
 **PEER-TO-PEER UNIVERSITY (P2PU)**
 
-[courses.p2pu.org/en/](https://courses.p2pu.org/en/)
+[p2pu.org/en/](https://www.p2pu.org/en/)
+[course-in-a-box.p2pu.org](https://course-in-a-box.p2pu.org/)
 
 A university for the web. Built by an open community.
 
