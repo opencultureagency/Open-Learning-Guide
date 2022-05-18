@@ -12,12 +12,6 @@ jHUB eLearning materials: [icebauhaus-elearning.de](https://www.icebauhaus-elear
 
 Based on the Moodle [moodle.org](https://moodle.org) Knowledge Management System that uses open pedagogical principles to create online learning communities.
 
-**P2P FOUNDATION**
-
-[p2pfoundation.ning.com](http://p2pfoundation.ning.com/)
-
-The user generated Foundation for Peer to Peer Alternatives
-
 **PEERAGOGY HANDBOOK**
 
 [en.wikibooks.org/wiki/Peeragogy_Handbook_V1.0sents](https://en.wikibooks.org/wiki/Peeragogy_Handbook_V1.0sents)
