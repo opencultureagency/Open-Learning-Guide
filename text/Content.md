@@ -2,8 +2,6 @@
 
 **jHUB** creates an open knowledge and innovation space for South Sudanese youth to connect and collaborate. while providing an accesible resource center for creativ elearning and exploration. it seeks to adopt an "open system" approach, nurturing togethernes socialisation collaberative enterprise using hands-on, virtual, and e-learning digital environments as a meens to understand South Sudan's diverse culture. jHUB's capacity building and development elements are oriented towards using the advantagees of a wide range and freely accessible of open source tools, platforms and methodologies including the extensive use and promotion of "Open Education Resources" (OERs). jHUB also forms part of the global inovation gathering (GIG), a network which helped host a number of jHUB activities in neighboring countries in 2016.
 
-[jubahub.org](https://jubahub.org)
-
 **The Open Learning Guide** is an outcome of the "Step Up Juba Media Lab", a collaboration with Kapital Movie abd the new jHUB community in South Sudan, produced with partners icebauhause and R0G_agency for open culture and critical transformation in Berlin. This 2nd edition, updated from the "Let's Go jHUB" project, funded by the German Federal Ministry of International Cooperation and Development (BMZ) through its program of "Support for Media, Access to Information ans Freedom of Expression" in 2016.
 
 ## OPEN LEARNING INTRODUCTION PEER2PEER (P2P) & ICT LITERACY
