@@ -244,6 +244,12 @@ https://www.oshwa.org
 
 Open hardware community ensuring technological knowledge is accsessible to everyone. Collaborative development of technology that serves education, environmental sustainability, and human welfare.
 
+**WIKIFAB**
+
+http://wikifab.org 
+
+Open source hardware documentation platform. Tutorials to make anything, written by everyone.
+
 **WIKI-HOW**
 
 http://www.wikihow.com/
