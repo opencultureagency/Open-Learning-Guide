@@ -274,7 +274,7 @@ Learn a language for free, for ever. Learn anytime, anywhere. Each lesson includ
 
 **INTERNET POLYGLOT**
 
-[internetpolyglot.com/lessons-ar-en](http://www.internetpolyglot.com/lessons-ar-en) 
+[internetpolyglot.com/home](https://www.internetpolyglot.com/home)
 
 Free lectures to learn words in new languages
 
