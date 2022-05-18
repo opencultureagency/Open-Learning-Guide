@@ -4,7 +4,7 @@
 
 [jubahub.org](https://jubahub.org)
 
-**The Open Learning Guide** is an outcome of "Step-Up Juba Media Lab", a collaboration with Kapital Movie and the new jHUB community in South Sudan, produced with partners icebauhause and r0g_agency for open culture and critical transformation in Berlin. The program is funded by the German Federal Ministry of Economic Cooperation and Development (BMZ) through its program of "Support for Media, Access to Information and Freedom of Expression" in 2015.
+**The Open Learning Guide** is an outcome of the "Step Up Juba Media Lab", a collaboration with Kapital Movie abd the new jHUB community in South Sudan, produced with partners icebauhause and R0G_agency for open culture and critical transformation in Berlin. This 2nd edition, updated from the "Let's Go jHUB" project, funded by the German Federal Ministry of International Cooperation and Development (BMZ) through its program of "Support for Media, Access to Information ans Freedom of Expression" in 2016.
 
 ## OPEN LEARNING INTRODUCTION PEER2PEER (P2P) & ICT LITERACY
 
