@@ -10,19 +10,19 @@
 
 **iceHubs GLOBAL eLEARNING**
 
-jHUB eLearning materials: https://www.icebauhaus-elearning.de
+jHUB eLearning materials: [icebauhaus-elearning.de](https://www.icebauhaus-elearning.de)
 
-Based on the Moodle (https://moodle.org) Knowledge Management System that uses open pedagogical principles to create online learning communities.
+Based on the Moodle [moodle.org](https://moodle.org) Knowledge Management System that uses open pedagogical principles to create online learning communities.
 
 **P2P FOUNDATION**
 
-http://p2pfoundation.ning.com/
+[p2pfoundation.ning.com](http://p2pfoundation.ning.com/)
 
 The user generated Foundation for Peer to Peer Alternatives
 
 **PEERAGOGY HANDBOOK**
 
-https://en.wikibooks.org/wiki/Peeragogy_Handbook_V1.0sents
+[en.wikibooks.org/wiki/Peeragogy_Handbook_V1.0sents](https://en.wikibooks.org/wiki/Peeragogy_Handbook_V1.0sents)
 
 sents a range of techniques 
 
@@ -30,25 +30,25 @@ Peeragogy is another word for “peer learning”. A range of techniques for sel
 
 **PEER-TO-PEER UNIVERSITY (P2PU)**
 
-https://courses.p2pu.org/en/
+[courses.p2pu.org/en/](https://courses.p2pu.org/en/)
 
 A university for the web. Built by an open community.
 
 **WIKIPEDIA**
 
-https://www.wikipedia.org 
+[wikipedia.org](https://www.wikipedia.org) 
 
 Collaborative global open encyclopaedia and free knowledge resource.
 
 **MOZILLA WEB LITERACY**
 
-https://learning.mozilla.org/en-US/web-literacy
+[learning.mozilla.org/en-US/web-literacy](https://learning.mozilla.org/en-US/web-literacy)
 
 Web literacy 21sr Century Skills: Problem-Solving, Communication, Creativity, Collaberation, Share, design, code, compose, remix, navigate, connect, open practice, contribute.
 
 **OPEN SOURCE EDUCATION**
 
-http://opensource.com/education/13/4/guide-open-source-education
+[opensource.com/education/13/4/guide-open-source-education](http://opensource.com/education/13/4/guide-open-source-education)
 
 Aguide to free and open source education. Stories about creating. adopting and sharing open source solutions.
 
