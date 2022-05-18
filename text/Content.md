@@ -105,7 +105,7 @@ Innovation Flowchart / Business Model Canvas / People and Connections Map
 
 **GIG Global Innovation Gathering**
 
-[globalinnovationgathering.com/](http://www.globalinnovationgathering.com/) 
+[globalinnovationgathering.org](https://globalinnovationgathering.org/)
 
 A vibrant and growing community of innovation hub founders, community managers, makers and hackers around the world, who exchange ideas and collaborate.
 
