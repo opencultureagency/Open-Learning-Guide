@@ -179,25 +179,25 @@ DIY Guide:learn how to code for free, using online courses, instructional videos
 ## USER EXPERIENCE DESIGN
 **GOOGLE DESIGN**
 
-https://design.google.com/
+[design.google.com/](https://design.google.com/)
 
 A cooperative effort between the Material Design Team, Developer Relations, and Marketing to champion and produce content about the great design happening at Google.
 
 **UX DESIGN RESOURCES**
 
-http://uxdesign.com/ 
+[uxdesign.com/](http://uxdesign.com/) 
 
 “Information architecture defines the structure of information. Interaction design enables people to manipulate and contribute to that information. Visual design communicates these possibilities to people and creates affinity to them. User experience is the summation of these considerations." Luke Wroblewski
 
 **UX CHECKLIST**
 
-http://uxchecklist.github.io/
+[uxchecklist.github.io/](http://uxchecklist.github.io/)
 
 Competitive Analysis, Data Analysis, User Stories, User Flows, Brainstorm & Sketch, Wireframe, Prototype, Gestures, Responsiveness, Images & Icons, Transitions.
 
 **W3C ACCESSIBILITY TUTORIALS**
 
-https://www.w3.org/WAI/tutorials/ 
+[w3.org/WAI/tutorials/](https://www.w3.org/WAI/tutorials/) 
 
 Develop web content that is accessible to people with disabilities, and offer a better user experience for everyone. Provide accessible images, content & tables with web authoring tools & technologies, including HTML4, HTML5, CSS3, WAI-ARIA, MathML & SVG. 
 
