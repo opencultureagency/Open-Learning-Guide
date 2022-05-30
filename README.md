@@ -22,7 +22,7 @@ More about [#ASKnet](https://www.asknet.community/) here.
 
 ###  back page
 
-* ![#F6F8CE](color-codes/F6F8CE.png) Background light: #F6F8CE
+* ![#F5F4D6](color-codes/F5F4D6.png) Background light: #F5F4D6
 
 
 ### graphics + font colors (black, white and colors)
@@ -46,7 +46,7 @@ More about [#ASKnet](https://www.asknet.community/) here.
 
 # **Text:**
 
-You can acess the text files from the text folder [here](ttps://github.com/opencultureagency/Open-Learning-Guide/tree/master/text)
+You can acess the text files from the text folder [here](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/text)
 
 
 # **Images:**
@@ -60,16 +60,17 @@ You can acess the raw images files graphics, icons, and logos from the images fo
 # **Source File:**
 
 Adobe Illustrator file: 
-* Front Page (34.3 MB): https://cloud.openculture.agency/index.php/s/Rz6obds2AmYY5oq  
-* Back Page (66.9 MB): https://cloud.openculture.agency/index.php/s/mMpqZQmqgjnMwGe  
+* [Download Front Page (34.3 MB):](https://cloud.openculture.agency/index.php/s/Rz6obds2AmYY5oq)
+* [Download Back Page (66.9 MB):](https://cloud.openculture.agency/index.php/s/mMpqZQmqgjnMwGe )
 
 PDF Print-Ready file:
-* [Download Print-Ready PDF File](https://cloud.openculture.agency/index.php/s/dy2ZZWA39mzPGiS)
+* [Download Print-Ready PDF .zip File (24.2 MB)](https://cloud.openculture.agency/index.php/s/42NsfDNQkPkZmbb)
 
 # **Editorial Team:**
 **Content Creator & Editor**
 
-Design:   
+Content Created by: #ASKnet participants / r0g_agency  
+Designed by: Adam Ferns  
 Assembled & Edited by: 
 Timm Wille [Github](https://github.com/timmwille/)
 
