@@ -6,8 +6,8 @@ More about [#ASKnet](https://www.asknet.community/) here.
 
 ## Design Description
 
-![Open Learning Guide front page](Juba-open-learning-guide-front.png)
-![Open Learning Guide back page](Juba-open-learning-guide-back.png)
+![Open Learning Guide front page](open-learning-guide-front.png)
+![Open Learning Guide back page](open-learning-guide-back.png)
 
 
 # **Color scheme + Hex Color Codes:**
