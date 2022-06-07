@@ -274,15 +274,15 @@ Learn a language for free, for ever. Learn anytime, anywhere. Each lesson includ
 
 **INTERNET POLYGLOT**
 
-[internetpolyglot.com/lessons-ar-en](http://www.internetpolyglot.com/lessons-ar-en) 
+[internetpolyglot.com/home](https://www.internetpolyglot.com/home)
 
 Free lectures to learn words in new languages
 
 **LEARN OUT LOUD**
 
-[learnoutloud.com/Free-Audio-Video/Languages/English-as-a-Second-Language/English-for-Arabic-Speakers-Unit-1/41722](http://www.learnoutloud.com/Free-Audio-Video/Languages/English-as-a-Second-Language/English-for-Arabic-Speakers-Unit-1/41722)
+[learnoutloud.com/Catalog/Languages](https://www.learnoutloud.com/Catalog/Languages)
 
-Learn english as an arab speaker
+various language learning resources. various further learning content on the learnoutloud homepage.
 
 ## ANIMATION, 3D MODELLING, SOUND & VIDEO EDITING
 
