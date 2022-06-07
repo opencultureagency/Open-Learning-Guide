@@ -7,7 +7,7 @@ is a Juba based grass-roots film, art, design, and entertainment training initia
 
 **r0g_agency** for open culture and critical transformation focuses on actual practice and projects embedded in communities. Its network aims to influence policy from the ground up, to inform and create better policy outcomes, extend networks and support – bringing together arts, culture, open development, civil society and transparence. r0g_agency’s work taps into the power and breadth of contemporary free and public domain resources including open educational resources [OERs], free open source software [FOSS] and hardware, open data and open knowledge repositories. openculture.agency
 
-**STEP-UP JUBA MEDIA LAB** is funded by the German Federal Ministry of Economic Cooperation and Development (BMZ) through its programme of “Support for Media, Access to Information and Freedom of Expression”. bmz.de/en
+**#ASKnet** is funded by the German Federal Ministry of Economic Cooperation and Development (BMZ) through its programme of “Support for Media, Access to Information and Freedom of Expression”. bmz.de/en
 
 Step-Up project mentors, curators and workshop facilitators: Clemens Lerche (Berlin)
 Ahmed Bastawi (Alexandria) / Markos Lemma (Addis Ababa) / Mugethi Gitau (Nairobi) / Stephen Kovats (Berlin) / Rafiq Copeland (Juba) / Timm Wille (Berlin) / Sheilah Birgen (Nairobi) / Evans Campbell (Nairobi) / Eva Yayi Mawa (Juba) / Eng-Lual Michael Mayen (Juba) / Kudzai Mumbaiwa (Harare) / Viola Abango (Wau) / Daryl Lukas (Lusaka) / Rayna Stamboliyska (Paris)
