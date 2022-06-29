@@ -6,8 +6,8 @@ More about [#ASKnet](https://www.asknet.community/) here.
 
 ## Design Description
 
-![Open Learning Guide front page](Juba-open-learning-guide-front.png)
-![Open Learning Guide back page](Juba-open-learning-guide-back.png)
+![Open Learning Guide front page](open-learning-guide-front.png)
+![Open Learning Guide back page](open-learning-guide-back.png)
 
 
 # **Color scheme + Hex Color Codes:**
@@ -53,8 +53,8 @@ You can acess the text files from the text folder [here](https://github.com/open
 
 You can acess the raw images files graphics, icons, and logos from the images folder [here](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images)
 
-* [Source images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/src-img)
-* [Web preview images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/web-img)
+* [Source images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images/src-img)
+* [Web preview images](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images/web-img)
 * [Logos](https://github.com/opencultureagency/Open-Learning-Guide/tree/master/images/logos)
 
 # **Source File:**
@@ -74,7 +74,7 @@ Designed by: Adam Ferns
 Assembled & Edited by: 
 Timm Wille [Github](https://github.com/timmwille/)
 
-## Partners and Founders
+## Partners and Funders
 
 The Open Learning Guide is an outcome of "Step Juba Media Lab",
 a collaboration with Kapital Movie and the new jHUB community in South Sudan,
